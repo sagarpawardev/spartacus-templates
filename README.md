@@ -12,3 +12,10 @@ Sample code, templates, examples for SAP Spartacus
   <img src="spa-rest-call/screenshots/before.png" alt="before" width="400"/>
   <img src="spa-rest-call/screenshots/after.png" alt="after" width="400"/>
 </p>
+
+
+## [Adding a banner without cms](spa-add-banner-without-cms)
+<p align="center">
+  <img src="spa-add-banner-without-cms/screenshots/before.png" alt="before" width="400"/>
+  <img src="spa-add-banner-without-cms/screenshots/after.png" alt="after" width="400"/>
+</p>
