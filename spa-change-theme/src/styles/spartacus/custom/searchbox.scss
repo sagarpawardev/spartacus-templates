@@ -1,0 +1,9 @@
+cx-searchbox {
+    > * {
+        background-color: white !important; 
+        color: #9E9E9E;
+        ::placeholder {
+            color: var(--cx-color-light) !important; 
+        }
+    }
+}

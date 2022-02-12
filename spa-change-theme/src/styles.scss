@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+$useLatestStyles: true;
+@import '@spartacus/styles';
+@import '@spartacus/styles/scss/theme/santorini';
+//@import './styles/spartacus/custom/index';
+
+// $styleVersion: 4.3;
+// @import '~@spartacus/styles/index';
+
+/**
+There are two ways to change style
+1. chnage the global variable
+2. add a specific rule
+**/
+// body {
+//     --cx-color-primary: #ED7206;
+//     --cx-color-dark: #0F8B9D;
+//     --cx-color-secondary: #48B6B1;
+// }
+
+
